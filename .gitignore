@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Node (tooling only — the project itself has no dependencies)
+node_modules/
+
+# Generated link-check reports
+link-report.md
+link-report.json

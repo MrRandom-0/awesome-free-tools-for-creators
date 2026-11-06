@@ -1,0 +1,1111 @@
+[
+  {
+    "name": "DaVinci Resolve",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "description": "Professional video editor with colour grading, effects and audio tools in one app.",
+    "category": "video",
+    "freeNote": "Free version: nearly the full editor, no watermark and no export limits",
+    "tags": [
+      "editing",
+      "colour",
+      "desktop"
+    ]
+  },
+  {
+    "name": "CapCut",
+    "url": "https://www.capcut.com",
+    "description": "Easy video editor for short-form content, on mobile, desktop and web.",
+    "category": "video",
+    "freeNote": "Free plan: full editor with 1080p exports; a watermark only appears if you use Pro-marked templates or effects",
+    "tags": [
+      "short-form",
+      "captions",
+      "mobile"
+    ]
+  },
+  {
+    "name": "Clipchamp",
+    "url": "https://clipchamp.com",
+    "description": "Microsoft's beginner-friendly browser and Windows video editor.",
+    "category": "video",
+    "freeNote": "Free plan: unlimited exports up to 1080p with no watermark",
+    "tags": [
+      "browser",
+      "beginner"
+    ]
+  },
+  {
+    "name": "OBS Studio",
+    "url": "https://obsproject.com",
+    "description": "Record your screen and stream live to YouTube, Twitch and more.",
+    "category": "video",
+    "freeNote": "Free and open source, with no limits or watermarks",
+    "tags": [
+      "streaming",
+      "recording",
+      "open-source"
+    ]
+  },
+  {
+    "name": "OpenShot",
+    "url": "https://www.openshot.org",
+    "description": "Simple open-source video editor for quick cuts, titles and effects.",
+    "category": "video",
+    "freeNote": "Free and open source",
+    "tags": [
+      "editing",
+      "open-source",
+      "beginner"
+    ]
+  },
+  {
+    "name": "Shotcut",
+    "url": "https://shotcut.org",
+    "description": "Capable open-source editor that handles almost any format without importing.",
+    "category": "video",
+    "freeNote": "Free and open source",
+    "tags": [
+      "editing",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Kdenlive",
+    "url": "https://kdenlive.org",
+    "description": "Open-source editor with multi-track editing and plenty of effects.",
+    "category": "video",
+    "freeNote": "Free and open source",
+    "tags": [
+      "editing",
+      "open-source"
+    ]
+  },
+  {
+    "name": "HandBrake",
+    "url": "https://handbrake.fr",
+    "description": "Convert and compress video files into smaller MP4 or WebM files.",
+    "category": "video",
+    "freeNote": "Free and open source",
+    "tags": [
+      "converter",
+      "compression",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Blender",
+    "url": "https://www.blender.org",
+    "description": "3D creation suite with modelling, animation, rendering and a built-in video editor.",
+    "category": "video",
+    "freeNote": "Free and open source",
+    "tags": [
+      "3d",
+      "animation",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Descript",
+    "url": "https://www.descript.com",
+    "description": "Edit audio and video by editing the transcript, like a document.",
+    "category": "video",
+    "freeNote": "Free plan: 1 hour of transcription per month",
+    "tags": [
+      "transcription",
+      "editing",
+      "ai"
+    ]
+  },
+  {
+    "name": "Loom",
+    "url": "https://www.loom.com",
+    "description": "Record quick screen-and-camera videos instead of holding a meeting.",
+    "category": "video",
+    "freeNote": "Free plan: up to 25 videos, up to 5 minutes each",
+    "tags": [
+      "screen-recording",
+      "async"
+    ]
+  },
+  {
+    "name": "LocalMediaKit",
+    "url": "https://github.com/MrRandom-0/localmediakit",
+    "description": "Compress, convert, trim and subtitle media files entirely in your browser — nothing is uploaded.",
+    "category": "video",
+    "freeNote": "Free and open source; every tool runs locally on your device",
+    "tags": [
+      "browser",
+      "privacy",
+      "open-source",
+      "subtitles"
+    ]
+  },
+  {
+    "name": "Audacity",
+    "url": "https://www.audacityteam.org",
+    "description": "Record and edit audio: trim, clean up, mix and add effects.",
+    "category": "audio",
+    "freeNote": "Free and open source",
+    "tags": [
+      "editing",
+      "recording",
+      "open-source"
+    ]
+  },
+  {
+    "name": "BandLab",
+    "url": "https://www.bandlab.com",
+    "description": "Make music in your browser with instruments, loops and effects, plus a social platform.",
+    "category": "audio",
+    "freeNote": "Free: the full studio with unlimited projects",
+    "tags": [
+      "music-making",
+      "browser",
+      "daw"
+    ]
+  },
+  {
+    "name": "LMMS",
+    "url": "https://lmms.io",
+    "description": "Produce music with built-in instruments, samples and a piano roll.",
+    "category": "audio",
+    "freeNote": "Free and open source",
+    "tags": [
+      "music-making",
+      "daw",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Waveform Free",
+    "url": "https://www.tracktion.com/products/waveform-free",
+    "description": "A full digital audio workstation with no track-count restrictions.",
+    "category": "audio",
+    "freeNote": "Free version: the complete DAW, no track limits",
+    "tags": [
+      "daw",
+      "music-making"
+    ]
+  },
+  {
+    "name": "Ocenaudio",
+    "url": "https://www.ocenaudio.com",
+    "description": "Fast, lightweight audio editor that is simpler than most full DAWs.",
+    "category": "audio",
+    "freeNote": "Free to use",
+    "tags": [
+      "editing",
+      "beginner"
+    ]
+  },
+  {
+    "name": "GarageBand",
+    "url": "https://www.apple.com/mac/garageband/",
+    "description": "Apple's music studio for recording songs and podcasts on Mac and iOS.",
+    "category": "audio",
+    "freeNote": "Free with Apple devices",
+    "tags": [
+      "daw",
+      "apple",
+      "music-making"
+    ]
+  },
+  {
+    "name": "Auphonic",
+    "url": "https://auphonic.com",
+    "description": "Automatically level voices, reduce noise and hit loudness targets for podcasts.",
+    "category": "audio",
+    "freeNote": "Free plan: 2 hours of processed audio per month (free outputs add a short Auphonic jingle)",
+    "tags": [
+      "podcast",
+      "mastering",
+      "ai"
+    ]
+  },
+  {
+    "name": "Adobe Podcast",
+    "url": "https://podcast.adobe.com",
+    "description": "Clean up spoken audio and record podcasts in the browser.",
+    "category": "audio",
+    "freeNote": "Free with an Adobe account: Enhance Speech with usage limits",
+    "tags": [
+      "podcast",
+      "voice",
+      "browser"
+    ]
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com",
+    "description": "Design posts, thumbnails, presentations and more from thousands of templates.",
+    "category": "design",
+    "freeNote": "Free plan: large template and element library; some assets are Pro-only",
+    "tags": [
+      "templates",
+      "social-graphics",
+      "beginner"
+    ]
+  },
+  {
+    "name": "Photopea",
+    "url": "https://www.photopea.com",
+    "description": "Photoshop-style editor in the browser that opens PSD, AI and Sketch files.",
+    "category": "design",
+    "freeNote": "Free to use, supported by ads",
+    "tags": [
+      "photo-editing",
+      "browser",
+      "psd"
+    ]
+  },
+  {
+    "name": "GIMP",
+    "url": "https://www.gimp.org",
+    "description": "Full photo editor and design tool for retouching, compositing and graphics.",
+    "category": "design",
+    "freeNote": "Free and open source",
+    "tags": [
+      "photo-editing",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Krita",
+    "url": "https://krita.org",
+    "description": "Digital painting app made for illustrators, comics and concept art.",
+    "category": "design",
+    "freeNote": "Free and open source",
+    "tags": [
+      "illustration",
+      "painting",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org",
+    "description": "Vector graphics editor for logos, icons and illustrations (SVG).",
+    "category": "design",
+    "freeNote": "Free and open source",
+    "tags": [
+      "vector",
+      "logo",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "description": "Design interfaces and graphics collaboratively in the browser.",
+    "category": "design",
+    "freeNote": "Free Starter plan: 3 shared design files and unlimited personal drafts",
+    "tags": [
+      "ui-design",
+      "collaboration"
+    ]
+  },
+  {
+    "name": "Penpot",
+    "url": "https://penpot.app",
+    "description": "Open-source design and prototyping tool, self-hostable and browser-based.",
+    "category": "design",
+    "freeNote": "Free and open source; the hosted version is free to use",
+    "tags": [
+      "ui-design",
+      "open-source"
+    ]
+  },
+  {
+    "name": "remove.bg",
+    "url": "https://www.remove.bg",
+    "description": "Remove the background from a photo in one click.",
+    "category": "design",
+    "freeNote": "Free: low-resolution results; full-resolution downloads need credits",
+    "tags": [
+      "background-remover",
+      "ai"
+    ]
+  },
+  {
+    "name": "Upscayl",
+    "url": "https://upscayl.org",
+    "description": "Enlarge and sharpen images with AI, on your own computer.",
+    "category": "design",
+    "freeNote": "Free and open source",
+    "tags": [
+      "upscale",
+      "ai",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Squoosh",
+    "url": "https://squoosh.app",
+    "description": "Compress and resize images in the browser and compare settings side by side.",
+    "category": "design",
+    "freeNote": "Free, runs fully in your browser",
+    "tags": [
+      "compression",
+      "browser"
+    ]
+  },
+  {
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "Sketch-style whiteboard for diagrams, wireframes and quick explainers.",
+    "category": "design",
+    "freeNote": "Free to use in the browser; open source",
+    "tags": [
+      "whiteboard",
+      "diagrams",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "description": "Generate and explore colour palettes for your brand and designs.",
+    "category": "design",
+    "freeNote": "Free tier available",
+    "tags": [
+      "colour",
+      "palettes"
+    ]
+  },
+  {
+    "name": "Google Docs",
+    "url": "https://docs.google.com",
+    "description": "Write, edit and collaborate on documents in your browser.",
+    "category": "writing",
+    "freeNote": "Free with a Google account",
+    "tags": [
+      "documents",
+      "collaboration"
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "description": "Note-taking app that stores your writing as plain Markdown files on your device.",
+    "category": "writing",
+    "freeNote": "Free for personal use",
+    "tags": [
+      "notes",
+      "markdown",
+      "offline"
+    ]
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com",
+    "description": "Checks spelling, grammar and tone as you type, almost everywhere.",
+    "category": "writing",
+    "freeNote": "Free plan: core spelling, grammar and punctuation checks",
+    "tags": [
+      "grammar",
+      "editing"
+    ]
+  },
+  {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Grammar and style checker for more than 20 languages.",
+    "category": "writing",
+    "freeNote": "Free plan: basic checking for shorter texts",
+    "tags": [
+      "grammar",
+      "multilingual"
+    ]
+  },
+  {
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "description": "Highlights hard-to-read sentences so your writing gets clearer.",
+    "category": "writing",
+    "freeNote": "Free in the browser (the desktop app is paid)",
+    "tags": [
+      "editing",
+      "readability"
+    ]
+  },
+  {
+    "name": "LibreOffice",
+    "url": "https://www.libreoffice.org",
+    "description": "Complete free office suite: documents, spreadsheets and presentations.",
+    "category": "writing",
+    "freeNote": "Free and open source",
+    "tags": [
+      "office-suite",
+      "documents",
+      "open-source"
+    ]
+  },
+  {
+    "name": "FocusWriter",
+    "url": "https://gottcode.org/focuswriter/",
+    "description": "Distraction-free writing app that hides everything except your words.",
+    "category": "writing",
+    "freeNote": "Free and open source",
+    "tags": [
+      "focus",
+      "open-source"
+    ]
+  },
+  {
+    "name": "StackEdit",
+    "url": "https://stackedit.io",
+    "description": "Markdown editor in the browser with live preview and cloud sync.",
+    "category": "writing",
+    "freeNote": "Free to use in the browser",
+    "tags": [
+      "markdown",
+      "browser"
+    ]
+  },
+  {
+    "name": "Substack",
+    "url": "https://substack.com",
+    "description": "Publish a newsletter and blog, with paid subscriptions built in.",
+    "category": "writing",
+    "freeNote": "Free to publish; Substack takes a percentage only of paid subscriptions",
+    "tags": [
+      "newsletter",
+      "blogging"
+    ]
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com",
+    "description": "Blogging platform with a free custom domain, built for developers who write.",
+    "category": "writing",
+    "freeNote": "Free to blog on your own domain",
+    "tags": [
+      "blogging",
+      "developers"
+    ]
+  },
+  {
+    "name": "Google Search Console",
+    "url": "https://search.google.com/search-console",
+    "description": "See how your site performs in Google search and fix indexing problems.",
+    "category": "seo-marketing",
+    "freeNote": "Free from Google",
+    "tags": [
+      "seo",
+      "analytics"
+    ]
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://analytics.google.com",
+    "description": "Understand where your visitors come from and what they read or watch.",
+    "category": "seo-marketing",
+    "freeNote": "Free from Google",
+    "tags": [
+      "analytics"
+    ]
+  },
+  {
+    "name": "Bing Webmaster Tools",
+    "url": "https://www.bing.com/webmasters",
+    "description": "Monitor and improve your site's presence in Bing search.",
+    "category": "seo-marketing",
+    "freeNote": "Free from Microsoft",
+    "tags": [
+      "seo"
+    ]
+  },
+  {
+    "name": "Ahrefs Webmaster Tools",
+    "url": "https://ahrefs.com/webmaster-tools",
+    "description": "Audit your own website for SEO issues and see your backlinks.",
+    "category": "seo-marketing",
+    "freeNote": "Free for verified site owners",
+    "tags": [
+      "seo",
+      "audit",
+      "backlinks"
+    ]
+  },
+  {
+    "name": "Ubersuggest",
+    "url": "https://ubersuggest.com",
+    "description": "Keyword ideas, content ideas and basic site audits.",
+    "category": "seo-marketing",
+    "freeNote": "Free tier: a limited number of searches per day",
+    "tags": [
+      "keywords",
+      "seo"
+    ]
+  },
+  {
+    "name": "AnswerThePublic",
+    "url": "https://answerthepublic.com",
+    "description": "Turns real search questions into content ideas, grouped by topic.",
+    "category": "seo-marketing",
+    "freeNote": "Free tier: a limited number of searches per day",
+    "tags": [
+      "keywords",
+      "content-ideas"
+    ]
+  },
+  {
+    "name": "Google Keyword Planner",
+    "url": "https://ads.google.com/home/tools/keyword-planner/",
+    "description": "Check search demand for keywords straight from Google's ad data.",
+    "category": "seo-marketing",
+    "freeNote": "Free with a Google Ads account",
+    "tags": [
+      "keywords",
+      "research"
+    ]
+  },
+  {
+    "name": "Screaming Frog SEO Spider",
+    "url": "https://www.screamingfrog.co.uk/seo-spider/",
+    "description": "Crawl your website to find broken links, duplicate titles and other issues.",
+    "category": "seo-marketing",
+    "freeNote": "Free version crawls up to 500 URLs",
+    "tags": [
+      "audit",
+      "crawler",
+      "desktop"
+    ]
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com",
+    "description": "Email marketing for small audiences, with landing pages and forms.",
+    "category": "seo-marketing",
+    "freeNote": "Free plan: small contact list with limited monthly sends",
+    "tags": [
+      "email",
+      "newsletter"
+    ]
+  },
+  {
+    "name": "Brevo",
+    "url": "https://www.brevo.com",
+    "description": "Email and SMS marketing, plus a simple CRM.",
+    "category": "seo-marketing",
+    "freeNote": "Free plan: 300 emails per day with large contact storage",
+    "tags": [
+      "email",
+      "newsletter"
+    ]
+  },
+  {
+    "name": "HubSpot Free Tools",
+    "url": "https://www.hubspot.com",
+    "description": "Free CRM with email tracking, forms, live chat and landing pages.",
+    "category": "seo-marketing",
+    "freeNote": "Free CRM tier, no time limit",
+    "tags": [
+      "crm",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Google Trends",
+    "url": "https://trends.google.com",
+    "description": "Compare what people are searching for, and spot rising topics early.",
+    "category": "seo-marketing",
+    "freeNote": "Free from Google",
+    "tags": [
+      "trends",
+      "research"
+    ]
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buffer.com",
+    "description": "Plan and schedule posts across social networks from one queue.",
+    "category": "social",
+    "freeNote": "Free plan: 3 channels, 10 queued posts per channel",
+    "tags": [
+      "scheduling"
+    ]
+  },
+  {
+    "name": "Meta Business Suite",
+    "url": "https://business.facebook.com",
+    "description": "Schedule Facebook and Instagram posts and reply to messages in one inbox.",
+    "category": "social",
+    "freeNote": "Free with a Facebook account",
+    "tags": [
+      "scheduling",
+      "facebook",
+      "instagram"
+    ]
+  },
+  {
+    "name": "Metricool",
+    "url": "https://metricool.com",
+    "description": "Schedule posts and check analytics for most major networks.",
+    "category": "social",
+    "freeNote": "Free plan: 1 brand with limited monthly posts",
+    "tags": [
+      "scheduling",
+      "analytics"
+    ]
+  },
+  {
+    "name": "Social Blade",
+    "url": "https://socialblade.com",
+    "description": "Public follower and growth statistics for YouTube, TikTok, Instagram and more.",
+    "category": "social",
+    "freeNote": "Free stats lookups",
+    "tags": [
+      "analytics",
+      "research"
+    ]
+  },
+  {
+    "name": "TikTok Creative Center",
+    "url": "https://ads.tiktok.com/business/creativecenter",
+    "description": "Trending songs, hashtags and top ads on TikTok, straight from TikTok.",
+    "category": "social",
+    "freeNote": "Free to browse",
+    "tags": [
+      "tiktok",
+      "trends"
+    ]
+  },
+  {
+    "name": "Pinterest Trends",
+    "url": "https://trends.pinterest.com",
+    "description": "See what people are searching for and saving on Pinterest.",
+    "category": "social",
+    "freeNote": "Free to browse",
+    "tags": [
+      "pinterest",
+      "trends"
+    ]
+  },
+  {
+    "name": "Linktree",
+    "url": "https://linktr.ee",
+    "description": "One link that holds all of your profiles, videos and shops.",
+    "category": "social",
+    "freeNote": "Free plan: unlimited links with basic customisation",
+    "tags": [
+      "link-in-bio"
+    ]
+  },
+  {
+    "name": "Beacons",
+    "url": "https://beacons.ai",
+    "description": "Link-in-bio pages with a shop, media kit and email signup.",
+    "category": "social",
+    "freeNote": "Free tier available",
+    "tags": [
+      "link-in-bio",
+      "monetisation"
+    ]
+  },
+  {
+    "name": "Carrd",
+    "url": "https://carrd.com",
+    "description": "Build a simple one-page site for a profile, landing page or waitlist.",
+    "category": "social",
+    "freeNote": "Free plan: 3 sites on a Carrd subdomain",
+    "tags": [
+      "website",
+      "landing-page"
+    ]
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com",
+    "description": "Take tips, memberships and shop sales from your supporters.",
+    "category": "social",
+    "freeNote": "Free to start; no platform fee on tips",
+    "tags": [
+      "monetisation",
+      "tips"
+    ]
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.com",
+    "description": "Notes, docs, wikis and simple databases in one workspace.",
+    "category": "productivity",
+    "freeNote": "Free plan for individuals, with unlimited pages",
+    "tags": [
+      "notes",
+      "docs",
+      "organisation"
+    ]
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com",
+    "description": "Organise projects on drag-and-drop boards of lists and cards.",
+    "category": "productivity",
+    "freeNote": "Free plan: 10 boards per Workspace and unlimited cards",
+    "tags": [
+      "boards",
+      "projects"
+    ]
+  },
+  {
+    "name": "Todoist",
+    "url": "https://todoist.com",
+    "description": "A tidy to-do list with priorities, labels and recurring tasks.",
+    "category": "productivity",
+    "freeNote": "Free plan: a limited number of active projects",
+    "tags": [
+      "tasks",
+      "to-do"
+    ]
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com",
+    "description": "Tasks, docs, goals and time tracking in one app.",
+    "category": "productivity",
+    "freeNote": "Free plan available",
+    "tags": [
+      "tasks",
+      "projects"
+    ]
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://drive.google.com",
+    "description": "Store, share and back up files, with Docs, Sheets and Slides included.",
+    "category": "productivity",
+    "freeNote": "Free: 15 GB of storage with a Google account",
+    "tags": [
+      "storage",
+      "files"
+    ]
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com",
+    "description": "Sync files across devices and share them with a link.",
+    "category": "productivity",
+    "freeNote": "Free Basic plan: 2 GB of storage",
+    "tags": [
+      "storage",
+      "sync"
+    ]
+  },
+  {
+    "name": "Joplin",
+    "url": "https://joplinapp.org",
+    "description": "Open-source notebook with end-to-end encrypted sync options.",
+    "category": "productivity",
+    "freeNote": "Free and open source; sync via your own cloud is free",
+    "tags": [
+      "notes",
+      "open-source",
+      "privacy"
+    ]
+  },
+  {
+    "name": "Toggl Track",
+    "url": "https://toggl.com/track/",
+    "description": "One-click time tracking for freelancers and small teams.",
+    "category": "productivity",
+    "freeNote": "Free plan for up to 5 users",
+    "tags": [
+      "time-tracking"
+    ]
+  },
+  {
+    "name": "Clockify",
+    "url": "https://clockify.me",
+    "description": "Time tracker with reports for projects and clients.",
+    "category": "productivity",
+    "freeNote": "Free plan: unlimited users and projects",
+    "tags": [
+      "time-tracking"
+    ]
+  },
+  {
+    "name": "Calendly",
+    "url": "https://calendly.com",
+    "description": "Share a link and let people book time with you without email tennis.",
+    "category": "productivity",
+    "freeNote": "Free plan: 1 event type and 1 calendar connection",
+    "tags": [
+      "scheduling",
+      "meetings"
+    ]
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "description": "Connect your apps and automate repetitive tasks without code.",
+    "category": "productivity",
+    "freeNote": "Free plan: a monthly task allowance with single-step automations",
+    "tags": [
+      "automation"
+    ]
+  },
+  {
+    "name": "Make",
+    "url": "https://www.make.com",
+    "description": "Visual automation builder for connecting apps and APIs.",
+    "category": "productivity",
+    "freeNote": "Free plan: 1,000 operations per month",
+    "tags": [
+      "automation"
+    ]
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "description": "Chat assistant for brainstorming, drafting, scripts and answers.",
+    "category": "ai",
+    "freeNote": "Free tier with usage limits",
+    "tags": [
+      "chatbot",
+      "writing",
+      "general"
+    ]
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "description": "AI assistant that is good at long documents, writing and code.",
+    "category": "ai",
+    "freeNote": "Free tier with usage limits",
+    "tags": [
+      "chatbot",
+      "writing"
+    ]
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "description": "Google's AI assistant, connected to Google's apps and search.",
+    "category": "ai",
+    "freeNote": "Free tier with usage limits",
+    "tags": [
+      "chatbot",
+      "google"
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai",
+    "description": "Answer engine that replies with sources you can check.",
+    "category": "ai",
+    "freeNote": "Free tier: unlimited basic searches, a few Pro searches per day",
+    "tags": [
+      "search",
+      "research"
+    ]
+  },
+  {
+    "name": "Microsoft Copilot",
+    "url": "https://copilot.com",
+    "description": "Microsoft's AI assistant for chat, summaries and image creation.",
+    "category": "ai",
+    "freeNote": "Free tier available",
+    "tags": [
+      "chatbot",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "NotebookLM",
+    "url": "https://notebook.google.com",
+    "description": "Turn your documents and notes into summaries, briefings and audio overviews.",
+    "category": "ai",
+    "freeNote": "Free to use with a Google account",
+    "tags": [
+      "research",
+      "documents",
+      "audio"
+    ]
+  },
+  {
+    "name": "Leonardo AI",
+    "url": "https://leonardo.ai",
+    "description": "Generate illustrations, game assets and images from text prompts.",
+    "category": "ai",
+    "freeNote": "Free plan: 150 tokens refreshed daily; free creations are public",
+    "tags": [
+      "image-generation"
+    ]
+  },
+  {
+    "name": "Ideogram",
+    "url": "https://ideogram.ai",
+    "description": "Image generator that is unusually good at putting readable text in images.",
+    "category": "ai",
+    "freeNote": "Free plan with weekly credits; free images are public",
+    "tags": [
+      "image-generation",
+      "text"
+    ]
+  },
+  {
+    "name": "Bing Image Creator",
+    "url": "https://www.bing.com/images/create",
+    "description": "Create images from text, powered by Microsoft Designer tooling.",
+    "category": "ai",
+    "freeNote": "Free with a Microsoft account, with daily boosts",
+    "tags": [
+      "image-generation"
+    ]
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "description": "Realistic text-to-speech voices and voice tools for narration.",
+    "category": "ai",
+    "freeNote": "Free plan: 10,000 credits a month (about 10 minutes of speech); attribution required, no commercial use",
+    "tags": [
+      "voice",
+      "text-to-speech"
+    ]
+  },
+  {
+    "name": "Suno",
+    "url": "https://suno.com",
+    "description": "Generate complete songs — lyrics, vocals and instruments — from a prompt.",
+    "category": "ai",
+    "freeNote": "Free Basic plan: daily song credits, non-commercial use",
+    "tags": [
+      "music",
+      "songs"
+    ]
+  },
+  {
+    "name": "DeepL",
+    "url": "https://www.deepl.com",
+    "description": "Accurate translator for text, documents and whole web pages.",
+    "category": "ai",
+    "freeNote": "Free tier: a limited amount of text translation",
+    "tags": [
+      "translation"
+    ]
+  },
+  {
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Learn to code with free courses, projects and certifications.",
+    "category": "learning",
+    "freeNote": "Completely free",
+    "tags": [
+      "coding",
+      "courses"
+    ]
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "description": "Lessons and practice in maths, science, computing and more.",
+    "category": "learning",
+    "freeNote": "Completely free",
+    "tags": [
+      "courses",
+      "school",
+      "stem"
+    ]
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "University and company courses on almost every subject.",
+    "category": "learning",
+    "freeNote": "Many courses can be audited free (without the certificate)",
+    "tags": [
+      "courses",
+      "certificates"
+    ]
+  },
+  {
+    "name": "edX",
+    "url": "https://www.edx.org",
+    "description": "Courses from universities such as Harvard and MIT.",
+    "category": "learning",
+    "freeNote": "Many courses are free to audit",
+    "tags": [
+      "courses",
+      "university"
+    ]
+  },
+  {
+    "name": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu",
+    "description": "Real MIT course materials — lectures, notes and assignments.",
+    "category": "learning",
+    "freeNote": "Completely free",
+    "tags": [
+      "university",
+      "courses"
+    ]
+  },
+  {
+    "name": "The Odin Project",
+    "url": "https://www.theodinproject.com",
+    "description": "A complete, project-based path for learning web development.",
+    "category": "learning",
+    "freeNote": "Completely free and open source",
+    "tags": [
+      "coding",
+      "web-development"
+    ]
+  },
+  {
+    "name": "CS50",
+    "url": "https://cs50.harvard.edu/x/",
+    "description": "Harvard's introduction to computer science, with lectures and problem sets.",
+    "category": "learning",
+    "freeNote": "Free to follow online",
+    "tags": [
+      "coding",
+      "computer-science"
+    ]
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "description": "Short daily lessons for learning languages.",
+    "category": "learning",
+    "freeNote": "Free tier supported by ads",
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "name": "HubSpot Academy",
+    "url": "https://academy.hubspot.com",
+    "description": "Free courses and certificates in marketing, sales and social media.",
+    "category": "learning",
+    "freeNote": "Completely free",
+    "tags": [
+      "marketing",
+      "certificates"
+    ]
+  },
+  {
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "description": "A huge free library of books, films, music and archived web pages.",
+    "category": "learning",
+    "freeNote": "Free to use",
+    "tags": [
+      "library",
+      "books",
+      "archive"
+    ]
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org",
+    "description": "Tens of thousands of free ebooks, mostly classics whose copyright has expired.",
+    "category": "learning",
+    "freeNote": "Completely free",
+    "tags": [
+      "ebooks",
+      "reading"
+    ]
+  }
+]

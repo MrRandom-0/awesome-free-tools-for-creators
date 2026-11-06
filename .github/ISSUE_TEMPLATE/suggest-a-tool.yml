@@ -1,0 +1,73 @@
+name: Suggest a tool
+description: Suggest a genuinely free tool for creators to add to the list.
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting. The bar is deliberately high: the tool must have a
+        **real free tier** (not a trial) that can finish actual work, and the
+        limits must be statable in one honest sentence.
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool name
+      placeholder: e.g. Photopea
+    validations:
+      required: true
+  - type: input
+    id: tool-url
+    attributes:
+      label: Official website URL
+      description: Direct link to the official site. No affiliate or referral links.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Video & Animation
+        - Audio & Music
+        - Design & Images
+        - Writing & Blogging
+        - SEO & Marketing
+        - Social Media
+        - Productivity
+        - AI Tools
+        - Learning
+    validations:
+      required: true
+  - type: textarea
+    id: what-it-does
+    attributes:
+      label: What does it do?
+      description: One plain sentence, the way you would describe it to a friend.
+    validations:
+      required: true
+  - type: textarea
+    id: free-tier
+    attributes:
+      label: What does the free tier actually give?
+      description: Check the tool's pricing page and write the real deal — limits, watermarks, credits and all.
+      placeholder: 'e.g. Free plan: unlimited exports up to 1080p, no watermark'
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: I confirm
+      options:
+        - label: The free tier is not a time-limited trial and does not need a credit card.
+          required: true
+        - label: I am not affiliated with this tool (or I have said so below if I am).
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Affiliation, why creators would use it weekly, similar tools already listed, etc.
+    validations:
+      required: false

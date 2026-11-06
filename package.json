@@ -1,0 +1,14 @@
+{
+  "name": "awesome-free-tools-for-creators",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of genuinely free tools for creators. tools.json is the single source of truth; README.md and the docs/ site are generated from it.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check-links": "node scripts/check-links.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build.mjs && git diff --exit-code -- README.md docs/tools.json"
+  },
+  "license": "MIT"
+}

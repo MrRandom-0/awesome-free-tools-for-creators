@@ -1,0 +1,44 @@
+name: Link check
+
+# Verifies every URL in tools.json still resolves. Uses the repo's own
+# zero-dependency checker (scripts/check-links.mjs) — no third-party
+# actions beyond checkout/setup-node.
+#
+# The run FAILS only on dead links. Redirects and bot-blocked sites are
+# listed in the uploaded report for a human to review (see MAINTENANCE.md).
+
+on:
+  schedule:
+    # Monthly, on the 1st, 06:00 UTC.
+    - cron: "0 6 1 * *"
+  pull_request:
+    paths:
+      - "tools.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate tools.json first
+        run: node scripts/validate.mjs
+
+      - name: Check all links
+        run: node scripts/check-links.mjs --report link-report.md
+
+      - name: Upload link report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: link-report.md
+          if-no-files-found: ignore

@@ -1,0 +1,35 @@
+name: Report a changed free tier or dead link
+description: A listed tool changed its free plan, shrank its limits, or its link died.
+title: "[Changed] "
+labels: ["maintenance"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Free tiers change quietly all the time — reports like yours are how
+        this list stays true. Thank you.
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool name (as listed)
+    validations:
+      required: true
+  - type: dropdown
+    id: what-changed
+    attributes:
+      label: What changed?
+      options:
+        - The free tier was removed or turned into a trial
+        - The free tier still exists but the limits in the note are wrong now
+        - The link is dead or redirects somewhere else
+        - The tool shut down or was renamed
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What does the pricing page say now? A link to it helps a lot.
+    validations:
+      required: true

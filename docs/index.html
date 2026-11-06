@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome Free Tools for Creators — genuinely free tools, honestly labelled</title>
+    <meta
+      name="description"
+      content="A curated list of genuinely free tools for creators, students and freelancers. Every entry names what the free tier actually gives you. No trials, no affiliate links."
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧰</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>Awesome Free Tools for Creators</h1>
+        <p class="pitch">
+          Genuinely free tools for people who make things. Every entry has a usable free tier —
+          and says exactly what that free tier gives you. No expiring trials, no affiliate links.
+        </p>
+        <div class="controls">
+          <label class="search-label" for="search">Search tools</label>
+          <input
+            id="search"
+            type="search"
+            placeholder="Try “subtitles”, “logo”, “podcast”…"
+            autocomplete="off"
+          />
+        </div>
+        <nav id="chips" class="chips" aria-label="Filter by category"></nav>
+        <p id="count" class="count" role="status"></p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div id="list" class="grid" aria-live="polite"></div>
+      <p id="empty" class="empty" hidden>
+        Nothing matches that search yet. Try a shorter word — or
+        <a href="https://github.com/MrRandom-0/awesome-free-tools-for-creators/issues">suggest the tool</a>
+        if it has a real free tier.
+      </p>
+      <p id="error" class="empty" hidden>
+        The tool list could not be loaded. You can browse the same list in the
+        <a href="https://github.com/MrRandom-0/awesome-free-tools-for-creators">README on GitHub</a>.
+      </p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Curated in the open. The single source of truth is
+          <a href="https://github.com/MrRandom-0/awesome-free-tools-for-creators/blob/main/tools.json">tools.json</a>
+          — suggest a tool or fix a free-tier note with a pull request.
+        </p>
+        <p class="fineprint">
+          Tool names belong to their owners; this list is not affiliated with any of them.
+          Free tiers change — if a note here is out of date, please open an issue.
+        </p>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+name: Validate and README sync
+
+# tools.json is the single source of truth. This workflow makes sure:
+#   1. tools.json is structurally valid (fields, duplicates, categories)
+#   2. README.md and docs/tools.json are exactly what the build generates
+#      from it — so contributors only ever edit tools.json.
+#
+# Fix a failure by running, locally:
+#   node scripts/validate.mjs
+#   node scripts/build.mjs
+# and committing the regenerated files.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate tools.json
+        run: node scripts/validate.mjs
+
+      - name: Rebuild generated files
+        run: node scripts/build.mjs
+
+      - name: Fail if generated files are out of sync
+        run: |
+          if ! git diff --exit-code -- README.md docs/tools.json; then
+            echo ""
+            echo "::error::README.md or docs/tools.json is out of sync with tools.json."
+            echo "Run 'node scripts/build.mjs' locally and commit the result."
+            exit 1
+          fi
+          echo "README.md and docs/tools.json are in sync with tools.json."
