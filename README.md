@@ -2,7 +2,7 @@
 
 A curated list of genuinely free tools for people who make things — video, audio, design, writing, marketing and more. Every tool here has a usable free tier you can keep using. No trials that expire, no "free" plans that are just demos.
 
-[![Entries](https://img.shields.io/badge/tools-99-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Entries](https://img.shields.io/badge/tools-100-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **How this list stays honest**
 
@@ -17,7 +17,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 - [Video & Animation](#video-animation) (12)
 - [Audio & Music](#audio-music) (8)
-- [Design & Images](#design-images) (12)
+- [Design & Images](#design-images) (13)
 - [Writing & Blogging](#writing-blogging) (10)
 - [SEO & Marketing](#seo-marketing) (12)
 - [Social Media](#social-media) (10)
@@ -63,6 +63,7 @@ Record and edit podcasts, voiceovers and music.
 
 Thumbnails, graphics, logos, photo editing and illustrations.
 
+- [ASCII Images](https://ascii-images.com) — Creates image-to-ASCII artwork, FIGlet banners, patterns and plain-text diagrams. _Free: Free tier: 18 browser tools with no account or trial; individual tools have documented input limits; site uses Google Analytics._
 - [Canva](https://www.canva.com) — Design posts, thumbnails, presentations and more from thousands of templates. _Free: Free plan: large template and element library; some assets are Pro-only._
 - [Coolors](https://coolors.co) — Generate and explore colour palettes for your brand and designs. _Free: Free tier available._
 - [Excalidraw](https://excalidraw.com) — Sketch-style whiteboard for diagrams, wireframes and quick explainers. _Free: Free to use in the browser; open source._
