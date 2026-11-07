@@ -1,5 +1,17 @@
 [
   {
+    "name": "ASCII Images",
+    "url": "https://ascii-images.com",
+    "description": "Creates image-to-ASCII artwork, FIGlet banners, patterns and plain-text diagrams.",
+    "category": "design",
+    "freeNote": "Free tier: 18 browser tools with no account or trial; individual tools have documented input limits; site uses Google Analytics",
+    "tags": [
+      "ascii",
+      "text-art",
+      "diagrams"
+    ]
+  },
+  {
     "name": "DaVinci Resolve",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve",
     "description": "Professional video editor with colour grading, effects and audio tools in one app.",
