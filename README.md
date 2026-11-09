@@ -35,6 +35,7 @@ Edit, record, convert and animate video without paying for an editor.
 
 - [Blender](https://www.blender.org) — 3D creation suite with modelling, animation, rendering and a built-in video editor. _Free: Free and open source._
 - [CapCut](https://www.capcut.com) — Easy video editor for short-form content, on mobile, desktop and web. _Free: Free plan: full editor with 1080p exports; a watermark only appears if you use Pro-marked templates or effects._
+- [Barz Studio](https://barzvideo.com/?utm_source=mrrandom-0-awesome-free-tools-for-creators&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM. _Free: Free to use in the browser._
 - [Clipchamp](https://clipchamp.com) — Microsoft's beginner-friendly browser and Windows video editor. _Free: Free plan: unlimited exports up to 1080p with no watermark._
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Professional video editor with colour grading, effects and audio tools in one app. _Free: Free version: nearly the full editor, no watermark and no export limits._
 - [Descript](https://www.descript.com) — Edit audio and video by editing the transcript, like a document. _Free: Free plan: 1 hour of transcription per month._
