@@ -66,7 +66,7 @@ lines.push(
 );
 lines.push("");
 lines.push(
-  "**Browse it as a website:** open the companion site in [`docs/`](docs/) (or the GitHub Pages deployment) to search and filter the whole list."
+  "**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search and filter the whole list live."
 );
 lines.push("");
 lines.push("## Contents");
