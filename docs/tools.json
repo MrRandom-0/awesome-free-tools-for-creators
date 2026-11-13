@@ -141,6 +141,18 @@
     ]
   },
   {
+    "name": "YouTubeVideoToMP4",
+    "url": "https://youtubevideotomp4.com",
+    "description": "Download any YouTube link as an MP4 file in the browser.",
+    "category": "video",
+    "freeNote": "Free, no account needed",
+    "tags": [
+      "download",
+      "youtube",
+      "converter"
+    ]
+  },
+  {
     "name": "Audacity",
     "url": "https://www.audacityteam.org",
     "description": "Record and edit audio: trim, clean up, mix and add effects.",

@@ -2,7 +2,7 @@
 
 A curated list of genuinely free tools for people who make things — video, audio, design, writing, marketing and more. Every tool here has a usable free tier you can keep using. No trials that expire, no "free" plans that are just demos.
 
-[![Entries](https://img.shields.io/badge/tools-99-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Entries](https://img.shields.io/badge/tools-100-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **How this list stays honest**
 
@@ -13,7 +13,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 **Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view.
 
-**The companion website** — search, sort and filter all 99 tools live, with favourites saved on your device:
+**The companion website** — search, sort and filter all 100 tools live, with favourites saved on your device:
 
 ![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)
 
@@ -21,7 +21,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 ## Contents
 
-- [Video & Animation](#video-animation) (12)
+- [Video & Animation](#video-animation) (13)
 - [Audio & Music](#audio-music) (8)
 - [Design & Images](#design-images) (12)
 - [Writing & Blogging](#writing-blogging) (10)
@@ -51,6 +51,7 @@ Edit, record, convert and animate video without paying for an editor.
 - [OBS Studio](https://obsproject.com) — Record your screen and stream live to YouTube, Twitch and more. _Free: Free and open source, with no limits or watermarks._
 - [OpenShot](https://www.openshot.org) — Simple open-source video editor for quick cuts, titles and effects. _Free: Free and open source._
 - [Shotcut](https://shotcut.org) — Capable open-source editor that handles almost any format without importing. _Free: Free and open source._
+- [YouTubeVideoToMP4](https://youtubevideotomp4.com) — Download any YouTube link as an MP4 file in the browser. _Free: Free, no account needed._
 
 ## Audio & Music
 
