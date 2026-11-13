@@ -69,6 +69,14 @@ lines.push(
   "**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search and filter the whole list live."
 );
 lines.push("");
+// Screenshots are standalone images on their own lines, never in tables —
+// images inside tables do not render in the GitHub mobile app.
+lines.push("**The companion website** — search and filter all 99 tools live:");
+lines.push("");
+lines.push("![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)");
+lines.push("");
+lines.push("![Awesome Free Tools website — dark theme](docs/screenshots/site-dark.png)");
+lines.push("");
 lines.push("## Contents");
 lines.push("");
 for (const cat of CATEGORIES) {
