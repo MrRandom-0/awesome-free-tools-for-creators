@@ -32,6 +32,7 @@
             placeholder="Try “subtitles”, “logo”, “podcast”…"
             autocomplete="off"
           />
+          <kbd class="search-kbd" aria-hidden="true">/</kbd>
         </div>
         <ul class="promises">
           <li>No expiring trials</li>
@@ -45,7 +46,17 @@
     <div class="filterbar">
       <div class="wrap">
         <nav id="chips" class="chips" aria-label="Filter by category"></nav>
-        <p id="count" class="count" role="status"></p>
+        <div class="bar-meta">
+          <p id="count" class="count" role="status"></p>
+          <div class="sort-wrap">
+            <label for="sort">Sort</label>
+            <select id="sort">
+              <option value="curated">Curated order</option>
+              <option value="az">Name A–Z</option>
+              <option value="za">Name Z–A</option>
+            </select>
+          </div>
+        </div>
       </div>
     </div>
 

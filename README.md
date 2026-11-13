@@ -11,9 +11,9 @@ A curated list of genuinely free tools for people who make things — video, aud
 - No affiliate links, ever. Every URL goes straight to the tool itself.
 - Entries live in [`tools.json`](tools.json) and this README is generated from it, so the list and the searchable website can never drift apart.
 
-**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search and filter the whole list live.
+**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view.
 
-**The companion website** — search and filter all 99 tools live:
+**The companion website** — search, sort and filter all 99 tools live, with favourites saved on your device:
 
 ![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)
 

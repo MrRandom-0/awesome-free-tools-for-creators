@@ -66,12 +66,12 @@ lines.push(
 );
 lines.push("");
 lines.push(
-  "**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search and filter the whole list live."
+  "**Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view."
 );
 lines.push("");
 // Screenshots are standalone images on their own lines, never in tables —
 // images inside tables do not render in the GitHub mobile app.
-lines.push("**The companion website** — search and filter all 99 tools live:");
+lines.push(`**The companion website** — search, sort and filter all ${count} tools live, with favourites saved on your device:`);
 lines.push("");
 lines.push("![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)");
 lines.push("");

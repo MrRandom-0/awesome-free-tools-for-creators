@@ -23,6 +23,8 @@
   --free-border: #bfe0cd;
   --free-text: #0a5c40;
 
+  --fav: #c77400;
+
   --bar-bg: rgba(246, 247, 244, 0.88);
   --hero-glow: rgba(13, 115, 119, 0.13);
   --shadow-sm: 0 1px 2px rgba(18, 30, 26, 0.05), 0 1px 3px rgba(18, 30, 26, 0.04);
@@ -48,6 +50,8 @@
     --free-bg: #0d2a20;
     --free-border: #1e4d3a;
     --free-text: #82e6c3;
+
+    --fav: #f0b04a;
 
     --bar-bg: rgba(11, 16, 17, 0.86);
     --hero-glow: rgba(43, 179, 163, 0.16);
@@ -96,7 +100,8 @@ a {
 }
 
 a:focus-visible,
-button:focus-visible {
+button:focus-visible,
+select:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
   border-radius: 4px;
@@ -141,7 +146,25 @@ button:focus-visible {
 }
 
 .controls {
+  position: relative;
   max-width: 40rem;
+}
+
+.search-kbd {
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  transform: translateY(-50%);
+  padding: 2px 8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--muted);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 6px;
+  pointer-events: none;
 }
 
 .search-label {
@@ -156,7 +179,7 @@ button:focus-visible {
 #search {
   width: 100%;
   height: 56px;
-  padding: 0 16px 0 48px;
+  padding: 0 46px 0 48px;
   font: inherit;
   font-size: 1.05rem;
   color: var(--text);
@@ -265,10 +288,110 @@ button:focus-visible {
   font-variant-numeric: tabular-nums;
 }
 
+.bar-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-top: 9px;
+}
+
 .count {
-  margin: 9px 0 1px;
+  margin: 0;
   color: var(--muted);
   font-size: 0.88rem;
+}
+
+.sort-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+#sort {
+  font: inherit;
+  font-size: 0.9rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 10px;
+  cursor: pointer;
+  transition: border-color 0.15s ease;
+}
+
+#sort:hover {
+  border-color: var(--accent);
+}
+
+/* Favourites chip + card star buttons */
+
+.chip svg {
+  width: 13px;
+  height: 13px;
+  margin-right: 5px;
+  vertical-align: -2px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+}
+
+.fav-chip[aria-pressed="true"] svg {
+  fill: var(--fav);
+  stroke: var(--fav);
+}
+
+.card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.star-btn {
+  appearance: none;
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  margin: -7px -7px 0 0;
+  padding: 0;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease,
+    transform 0.15s ease;
+}
+
+.star-btn svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+}
+
+.star-btn:hover {
+  color: var(--fav);
+  background: var(--surface-2);
+  transform: scale(1.1);
+}
+
+.star-btn[aria-pressed="true"] {
+  color: var(--fav);
+}
+
+.star-btn[aria-pressed="true"] svg {
+  fill: var(--fav);
+  stroke: var(--fav);
 }
 
 /* Cards */
@@ -430,12 +553,14 @@ button:focus-visible {
 
   .card,
   .chip,
+  .star-btn,
   .card h2 a::after {
     transition: none;
   }
 
   .card:hover,
-  .chip:hover {
+  .chip:hover,
+  .star-btn:hover {
     transform: none;
   }
 }
