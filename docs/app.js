@@ -28,6 +28,7 @@ const $error = document.getElementById("error");
 const $count = document.getElementById("count");
 const $chips = document.getElementById("chips");
 const $search = document.getElementById("search");
+const $stats = document.getElementById("stats");
 
 function el(tag, className, text) {
   const node = document.createElement(tag);
@@ -128,6 +129,10 @@ fetch("tools.json")
     state.tools = tools;
     renderChips();
     renderList();
+    if ($stats) {
+      const cats = new Set(tools.map((t) => t.category)).size;
+      $stats.textContent = `${tools.length} tools · ${cats} categories · re-checked monthly`;
+    }
   })
   .catch(() => {
     $error.hidden = false;

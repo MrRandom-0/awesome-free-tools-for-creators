@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
     <title>Awesome Free Tools for Creators — genuinely free tools, honestly labelled</title>
     <meta
       name="description"
@@ -11,16 +12,17 @@
     <link rel="stylesheet" href="style.css" />
     <link
       rel="icon"
-      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧰</text></svg>"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230d7377'/><text x='50' y='68' font-size='52' font-family='system-ui,sans-serif' font-weight='700' fill='white' text-anchor='middle'>A</text></svg>"
     />
   </head>
   <body>
     <header class="site-header">
-      <div class="wrap">
-        <h1>Awesome Free Tools for Creators</h1>
+      <div class="wrap hero">
+        <p class="eyebrow">A curated, open-source list</p>
+        <h1>Awesome Free Tools<br />for Creators</h1>
         <p class="pitch">
           Genuinely free tools for people who make things. Every entry has a usable free tier —
-          and says exactly what that free tier gives you. No expiring trials, no affiliate links.
+          and says exactly what that free tier gives you.
         </p>
         <div class="controls">
           <label class="search-label" for="search">Search tools</label>
@@ -31,10 +33,21 @@
             autocomplete="off"
           />
         </div>
+        <ul class="promises">
+          <li>No expiring trials</li>
+          <li>No affiliate links</li>
+          <li>Every free tier named, in plain words</li>
+        </ul>
+        <p id="stats" class="stats"></p>
+      </div>
+    </header>
+
+    <div class="filterbar">
+      <div class="wrap">
         <nav id="chips" class="chips" aria-label="Filter by category"></nav>
         <p id="count" class="count" role="status"></p>
       </div>
-    </header>
+    </div>
 
     <main class="wrap">
       <div id="list" class="grid" aria-live="polite"></div>
