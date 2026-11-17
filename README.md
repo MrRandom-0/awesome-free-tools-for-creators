@@ -2,7 +2,7 @@
 
 A curated list of genuinely free tools for people who make things — video, audio, design, writing, marketing and more. Every tool here has a usable free tier you can keep using. No trials that expire, no "free" plans that are just demos.
 
-[![Entries](https://img.shields.io/badge/tools-99-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Entries](https://img.shields.io/badge/tools-100-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **How this list stays honest**
 
@@ -13,7 +13,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 **Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view.
 
-**The companion website** — search, sort and filter all 99 tools live, with favourites saved on your device:
+**The companion website** — search, sort and filter all 100 tools live, with favourites saved on your device:
 
 ![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)
 
@@ -21,7 +21,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 ## Contents
 
-- [Video & Animation](#video-animation) (12)
+- [Video & Animation](#video-animation) (13)
 - [Audio & Music](#audio-music) (8)
 - [Design & Images](#design-images) (12)
 - [Writing & Blogging](#writing-blogging) (10)
@@ -46,6 +46,7 @@ Edit, record, convert and animate video without paying for an editor.
 - [Descript](https://www.descript.com) — Edit audio and video by editing the transcript, like a document. _Free: Free plan: 1 hour of transcription per month._
 - [HandBrake](https://handbrake.fr) — Convert and compress video files into smaller MP4 or WebM files. _Free: Free and open source._
 - [Kdenlive](https://kdenlive.org) — Open-source editor with multi-track editing and plenty of effects. _Free: Free and open source._
+- [Liveify](https://videolivephoto.com/video-to-gif) — Converts a short MP4, MOV or WebM clip into a looping GIF in the browser. _Free: Free plan: browser GIF and image exports are free, with no account, no upload and no watermark; this tool accepts clips up to 15 seconds and 100 MB._
 - [LocalMediaKit](https://github.com/MrRandom-0/localmediakit) — Compress, convert, trim and subtitle media files entirely in your browser — nothing is uploaded. _Free: Free and open source; every tool runs locally on your device._
 - [Loom](https://www.loom.com) — Record quick screen-and-camera videos instead of holding a meeting. _Free: Free plan: up to 25 videos, up to 5 minutes each._
 - [OBS Studio](https://obsproject.com) — Record your screen and stream live to YouTube, Twitch and more. _Free: Free and open source, with no limits or watermarks._
