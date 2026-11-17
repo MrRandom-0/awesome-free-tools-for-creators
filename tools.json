@@ -96,6 +96,14 @@
     "tags": ["browser", "privacy", "open-source", "subtitles"]
   },
   {
+    "name": "Liveify",
+    "url": "https://videolivephoto.com/video-to-gif",
+    "description": "Converts a short MP4, MOV or WebM clip into a looping GIF in the browser.",
+    "category": "video",
+    "freeNote": "Free plan: browser GIF and image exports are free, with no account, no upload and no watermark; this tool accepts clips up to 15 seconds and 100 MB",
+    "tags": ["gif", "converter", "browser"]
+  },
+  {
     "name": "Audacity",
     "url": "https://www.audacityteam.org",
     "description": "Record and edit audio: trim, clean up, mix and add effects.",
