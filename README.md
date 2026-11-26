@@ -2,7 +2,7 @@
 
 A curated list of genuinely free tools for people who make things — video, audio, design, writing, marketing and more. Every tool here has a usable free tier you can keep using. No trials that expire, no "free" plans that are just demos.
 
-[![Entries](https://img.shields.io/badge/tools-99-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Entries](https://img.shields.io/badge/tools-100-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **How this list stays honest**
 
@@ -13,7 +13,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 **Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view.
 
-**The companion website** — search, sort and filter all 99 tools live, with favourites saved on your device:
+**The companion website** — search, sort and filter all 100 tools live, with favourites saved on your device:
 
 ![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)
 
@@ -27,7 +27,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 - [Writing & Blogging](#writing-blogging) (10)
 - [SEO & Marketing](#seo-marketing) (12)
 - [Social Media](#social-media) (10)
-- [Productivity](#productivity) (12)
+- [Productivity](#productivity) (13)
 - [AI Tools](#ai-tools) (12)
 - [Learning](#learning) (11)
 - [Suggest a tool](#suggest-a-tool)
@@ -136,6 +136,7 @@ Tasks, notes, files and automation for a one-person business.
 - [Calendly](https://calendly.com) — Share a link and let people book time with you without email tennis. _Free: Free plan: 1 event type and 1 calendar connection._
 - [ClickUp](https://clickup.com) — Tasks, docs, goals and time tracking in one app. _Free: Free plan available._
 - [Clockify](https://clockify.me) — Time tracker with reports for projects and clients. _Free: Free plan: unlimited users and projects._
+- [Customer Interview Guide Generator](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/) — Writes 8 open customer interview questions for churn, win-loss, discovery or pricing interviews. _Free: Free and open source: no account, no backend, nothing stored. MIT licensed._
 - [Dropbox](https://www.dropbox.com) — Sync files across devices and share them with a link. _Free: Free Basic plan: 2 GB of storage._
 - [Google Drive](https://drive.google.com) — Store, share and back up files, with Docs, Sheets and Slides included. _Free: Free: 15 GB of storage with a Google account._
 - [Joplin](https://joplinapp.org) — Open-source notebook with end-to-end encrypted sync options. _Free: Free and open source; sync via your own cloud is free._
