@@ -856,6 +856,18 @@
     ]
   },
   {
+    "name": "Survey to Interview Question Converter",
+    "url": "https://nar-vardanyan.github.io/frank-mcp/tools/survey-to-interview-converter/",
+    "description": "Turns pasted survey questions into open, non-leading voice interview questions.",
+    "category": "productivity",
+    "freeNote": "Free and open source: no account, no backend, nothing you paste is sent anywhere. MIT licensed",
+    "tags": [
+      "interviews",
+      "surveys",
+      "web"
+    ]
+  },
+  {
     "name": "ChatGPT",
     "url": "https://chatgpt.com",
     "description": "Chat assistant for brainstorming, drafting, scripts and answers.",

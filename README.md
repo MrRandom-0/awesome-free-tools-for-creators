@@ -2,7 +2,7 @@
 
 A curated list of genuinely free tools for people who make things — video, audio, design, writing, marketing and more. Every tool here has a usable free tier you can keep using. No trials that expire, no "free" plans that are just demos.
 
-[![Entries](https://img.shields.io/badge/tools-99-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Entries](https://img.shields.io/badge/tools-100-brightgreen)](tools.json) [![License: MIT](https://img.shields.io/badge/licence-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **How this list stays honest**
 
@@ -13,7 +13,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 
 **Browse it as a website:** [mrrandom-0.github.io/awesome-free-tools-for-creators](https://mrrandom-0.github.io/awesome-free-tools-for-creators/) — search, sort and filter the whole list live, star your favourites, and share a link to any view.
 
-**The companion website** — search, sort and filter all 99 tools live, with favourites saved on your device:
+**The companion website** — search, sort and filter all 100 tools live, with favourites saved on your device:
 
 ![Awesome Free Tools website — light theme](docs/screenshots/site-light.png)
 
@@ -27,7 +27,7 @@ A curated list of genuinely free tools for people who make things — video, aud
 - [Writing & Blogging](#writing-blogging) (10)
 - [SEO & Marketing](#seo-marketing) (12)
 - [Social Media](#social-media) (10)
-- [Productivity](#productivity) (12)
+- [Productivity](#productivity) (13)
 - [AI Tools](#ai-tools) (12)
 - [Learning](#learning) (11)
 - [Suggest a tool](#suggest-a-tool)
@@ -141,6 +141,7 @@ Tasks, notes, files and automation for a one-person business.
 - [Joplin](https://joplinapp.org) — Open-source notebook with end-to-end encrypted sync options. _Free: Free and open source; sync via your own cloud is free._
 - [Make](https://www.make.com) — Visual automation builder for connecting apps and APIs. _Free: Free plan: 1,000 operations per month._
 - [Notion](https://www.notion.com) — Notes, docs, wikis and simple databases in one workspace. _Free: Free plan for individuals, with unlimited pages._
+- [Survey to Interview Question Converter](https://nar-vardanyan.github.io/frank-mcp/tools/survey-to-interview-converter/) — Turns pasted survey questions into open, non-leading voice interview questions. _Free: Free and open source: no account, no backend, nothing you paste is sent anywhere. MIT licensed._
 - [Todoist](https://todoist.com) — A tidy to-do list with priorities, labels and recurring tasks. _Free: Free plan: a limited number of active projects._
 - [Toggl Track](https://toggl.com/track/) — One-click time tracking for freelancers and small teams. _Free: Free plan for up to 5 users._
 - [Trello](https://trello.com) — Organise projects on drag-and-drop boards of lists and cards. _Free: Free plan: 10 boards per Workspace and unlimited cards._
