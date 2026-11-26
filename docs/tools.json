@@ -856,6 +856,18 @@
     ]
   },
   {
+    "name": "Customer Interview Guide Generator",
+    "url": "https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/",
+    "description": "Writes 8 open customer interview questions for churn, win-loss, discovery or pricing interviews.",
+    "category": "productivity",
+    "freeNote": "Free and open source: no account, no backend, nothing stored. MIT licensed",
+    "tags": [
+      "interviews",
+      "research",
+      "web"
+    ]
+  },
+  {
     "name": "ChatGPT",
     "url": "https://chatgpt.com",
     "description": "Chat assistant for brainstorming, drafting, scripts and answers.",
